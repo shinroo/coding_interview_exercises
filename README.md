@@ -4,7 +4,7 @@ All of them are done in **Python**.
 
 The problems are from **'Cracking the coding interview'** by Gayle Laakmann McDowell, **'Elements of programming interviews'** by Adnan Aziz et al. and from **Leetcode**. 
 
-Contents:
+**Contents:**
 - primitives
 - arrays
 - strings
